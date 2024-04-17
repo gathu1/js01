@@ -1,3 +1,5 @@
-let greeting = 'Hello World' ;
-console.log(greeting)
+let shopping [
+      'ASUS', 'HP', 'MACBOOK'
+]
 
+console.log(shopping);
